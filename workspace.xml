@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47e9d123-4e47-43d7-a781-925f0e8966da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="47e9d123-4e47-43d7-a781-925f0e8966da" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="FourFour.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../FourFour/FourFour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -77,9 +75,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -609,8 +607,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../FourFour/FourFour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="17" />
           <folding />
         </state>
       </provider>
